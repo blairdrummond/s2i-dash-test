@@ -1,8 +1,5 @@
-# Core
 gunicorn>=19.8.1
 dash>=1.0.0
-
-# Additional
 colorlover>=0.2.1
 numpy>=1.16.2
 pandas>=0.24.2
